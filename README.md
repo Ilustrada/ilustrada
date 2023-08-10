@@ -1,4 +1,4 @@
-  ## olá! Eu sou a ilustrada 👋
+  ## Olá! Eu sou a ilustrada 👋
 
 
 - 🌱 I’m currently learning C and Java
